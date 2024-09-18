@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnishhhDeyyy
-- 👀 I’m interested in Coding,Development
+- 👀 I’m interested in Competitive Coding, Web Development
 - ✨5Star problem Solving at Hackerrank
 
 

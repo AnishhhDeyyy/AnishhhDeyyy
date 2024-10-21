@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @AnishhhDeyyy
+- 👨🏻‍🎓 I completed my gradution from RCC INSTITUE OF INFORMATION TECHNOLOGY{B.TECH(2020-2024)}
 - 👀 I’m interested in Coding, WEB Development
 - ✨Solved a lot of problem on leetcode and hackerrank
 - 👻 Have proficient Knowldge on JSP,SERVLET,JDBC

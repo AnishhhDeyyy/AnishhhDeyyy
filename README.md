@@ -3,7 +3,7 @@
 - 👀 I’m interested in Coding, WEB Development
 - ✨Solved a lot of problem on leetcode and hackerrank
 - 👻 Have proficient Knowldge on JSP,SERVLET,JDBC
-- 🔔 Currently Learning Spring Boot Framework
+- 🔔 Currently Learning JS
 - 📧 Feel free to reach out to me : anishdey400@gmail.com
 
 
